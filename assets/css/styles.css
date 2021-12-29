@@ -92,11 +92,12 @@ p {
     color: hsl(180, 85%, 46%);
     cursor: pointer;
 }
-
-.attribution {
+.footer {
     font-size: 11px;
     text-align: center;
+    color: hsl(218, 32%, 54%);
 }
-.attribution a {
+
+.footer a {
     color: hsl(228, 45%, 44%);
- }
+}
